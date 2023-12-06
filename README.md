@@ -6,3 +6,4 @@ Real Estate app using MERN (MongoDB, Express.js, React.js, and Nodejs) and tailw
 -jsonwebtoken
 -redux toolkit
 -redux-persist
+-firebase
